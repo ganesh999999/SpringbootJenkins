@@ -1,4 +1,4 @@
-package com.springboot.jenkins.Jenkins;
+package com.springboot.jenkins;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
